@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pyinstaller
+fastapi[all]
+websockets
+orjson
+SpeechRecognition
+pydub
+pandas
+csvkit
+futures
